@@ -48,36 +48,17 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 
   
 
-### Front-End Libraries:
+### Front-End Libraries/Frameworks:
 
-| React | jQuery |
-|-------|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery"  alt="jQuery" width="55" height="55"/>|
+| React | jQuery | Angular | Bootstrap | Tailwind |
+|-------|--------|---------|-----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery"  alt="jQuery" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|
 
-### Front-End Frameworks:
+### Back-End Libraries/Frameworks:
 
-| Angular |
-|---------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/>|
-
-### Front-End CSS Frameworks:
-
-Bootstrap | Tailwind |
-|---------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|
-
-### Back-End Libraries:
-
-| Express | Flask |
-|---------|-------|
-|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|
-
-
-### Back-End Frameworks:
-| Django | Laravel |
-|--------|---------|
-|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|
-
+| Express | Flask | Django | Laravel |
+|---------|-------|--------|---------|
+|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|
 
 ### OS: ❤️ (linux one love)
 
