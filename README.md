@@ -48,13 +48,13 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 
   
 
-### Front-End <span style="color:#32CD32">Libraries<span/>/<span style="color:#4F7942">Frameworks<span/>:
+### Front-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
 | React | jQuery | Angular | Bootstrap | Tailwind |
 |-------|--------|---------|-----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery"  alt="jQuery" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|
 
-### Back-End <span style="color:#32CD32">Libraries<span/>/<span style="color:#4F7942">Frameworks<span/>:
+### Back-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
 | Express | Flask | Django | Laravel |
 |---------|-------|--------|---------|
