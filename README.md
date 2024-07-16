@@ -11,7 +11,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 Connect with me on LinkedIn, where I share insights, victories, and the occasional setback. 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitprofc/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rohitprofc/](https://www.linkedin.com/in/jaswanth-kollipara-896443237/))
 
 <!-- ## Competitions: 🥇
 
@@ -35,16 +35,17 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 ## Working on: 🚀
 
 - Tweaking this README for optimal engagement 
-- [AI Scheduling Appointment App](https://github.com/rohitprofc/ai-appointment-app) 
-- [Virtual Labs Simulator](https://github.com/rohitprofc/virtual-labs)
+- [Automated Online Exam](https://github.com/jaswanthgec/Automated-Online-Exam) 
+- [Virtual Labs Simulator](https://github.com/jaswanthgec/IIC-Virtual-Labs)
+- [Bar Code Scanner](https://github.com/jaswanthgec/Bar-Code-Scanner.git)
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| C | C++ | Python | JAVA | HTML | CSS | Sass | JS | PHP | 
+| C | R | Python | JAVA | HTML | CSS | JS | PowerBi | Tableau | 
 |---|-----|--------|------|------|-----|------|----|-----| 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="C++"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="55" width="55" alt="Sass"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="55" alt="JS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="55" width="55" alt="PHP"/>  |  
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="C++"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/>  | <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" height="55" width="55" alt="Tableau"/>   |  
 
   
 
@@ -56,9 +57,9 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 
 ### Back-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
-| Express | Flask | Django | Laravel |
-|---------|-------|--------|---------|
-|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|
+| Streamlit | Flask | Django | Express |
+|-----------|-------|--------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Express" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|
 
 ### OS: ❤️ (linux one love)
 
