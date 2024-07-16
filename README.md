@@ -2,34 +2,18 @@
 
 ### About Me:   
 
-I'm a dedicated full stack developer with a strong passion for creating seamless and efficient web applications. My expertise spans both front-end and back-end development, allowing me to build comprehensive and robust solutions. I specialize in modern JavaScript frameworks like React and Angular, and I'm proficient in server-side technologies such as Node.js, Express, and Django.
+An Inquisitive learner with an innovative and logical mind. I am delighted to be employed in a competitive sector that provides numerous opportunities to advance my career.
+
+I'm a dedicated Data Analyst with a strong passion for creating seamless and efficient data visualizations. My expertise spans both Data science and Machine Learning, allowing me to build comprehensive and robust solutions. I specialize in modern Database and frameworks like Sql, MongoDb, PowerBi and Tableau, and I'm proficient in server-side technologies such as Tomcat, Nginx and Django.
 
 I thrive on developing scalable and maintainable code, utilizing my solid understanding of database management with both SQL and NoSQL systems. My experience with cloud services like AWS and Azure enables me to deploy and manage applications efficiently.
-  
+
  
 ### Social media: 📡   
 
 Connect with me on LinkedIn, where I share insights, victories, and the occasional setback. 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rohitprofc/](https://www.linkedin.com/in/jaswanth-kollipara-896443237/))
-
-<!-- ## Competitions: 🥇
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|BSidesSF CTF|soon...|movie43|05/24|
-|CIT@CTF|top 6%|undermouses|04/2024|
-|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|vksCTF|top 15%| Solo played |09/2023| -->
-
 
 
 ## Working on: 🚀
@@ -52,19 +36,19 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 ### <span style="color:#32CD32;">Data Base<span/>, <span style="color:#4F7942;">Servers<span/> and <span style="color:#4F7942;">Full Stack<span/>:
 
 | Mysql | MongoDB| Tomcat | Nginx | Express | React | Nodejs |
-|-------|--------|---------------|-------|---------|-------|--------|
+|-------|--------|--------|-------|---------|-------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql"  alt="MySql" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB CSS"  alt="MongoDB CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Apache-tomcat"  alt="Apache-tomcat" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx"  alt="Nginx" width="55" height="55"/> | <img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" height="55" width="55"/> |
 
 ### <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
 | Streamlit | Flask | Django | Express | React | Nodejs | PowerBi | Tableau | TensorFlow | Scikit-Learn |
 |-----------|-------|--------|---------|-------|---------|---------|---------|------------|--------------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="55" width="55" alt="Nodejs"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/>|<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" height="55" width="55" alt="Tableau"/> | 
+|<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="55" width="55" alt="Nodejs"/> |<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/>|<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" height="55" width="55" alt="Tableau"/>| 
 
 ### OS: ❤️ (linux one love)
 
 | Linux | Ubuntu | Windows |
-|-------|--------|
+|-------|--------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Ubuntu" width="55" height="55"/> |
 
 ### Development tools:
