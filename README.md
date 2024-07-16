@@ -58,7 +58,7 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 ### <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
 | Streamlit | Flask | Django | Express | React | Node js | PowerBi | Tableau | TensorFlow | Scikit-Learn |
-|-----------|-------|--------|---------|-------|---------|---------|---------|
+|-----------|-------|--------|---------|-------|---------|---------|---------|------------|--------------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="55" width="55" alt="Nodejs"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/>|<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" height="55" width="55" alt="Tableau"/> | 
 
 ### OS: ❤️ (linux one love)
