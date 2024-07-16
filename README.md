@@ -49,15 +49,15 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 
 
 
-### Front-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
+### <span style="color:#32CD32;">Data Base<span/>, <span style="color:#4F7942;">Servers<span/> and <span style="color:#4F7942;">Full Stack<span/>:
 
-| React | jQuery | Angular | Bootstrap | Tailwind |
-|-------|--------|---------|-----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery"  alt="jQuery" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|
+| Mysql | MongoDB| Tomcat | Nginx | Express | React | Nodejs |
+|-------|--------|---------------|-------|---------|-------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql"  alt="MySql" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB CSS"  alt="MongoDB CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Apache-tomcat"  alt="Apache-tomcat" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx"  alt="Nginx" width="55" height="55"/> | <img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" height="55" width="55"/> |
 
 ### <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
-| Streamlit | Flask | Django | Express | React | Node js | PowerBi | Tableau | TensorFlow | Scikit-Learn |
+| Streamlit | Flask | Django | Express | React | Nodejs | PowerBi | Tableau | TensorFlow | Scikit-Learn |
 |-----------|-------|--------|---------|-------|---------|---------|---------|------------|--------------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="55" width="55" alt="Nodejs"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/>|<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" height="55" width="55" alt="Tableau"/> | 
 
