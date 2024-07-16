@@ -45,16 +45,22 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 |-----------|-------|--------|---------|---------|------------|--------------|------|---------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/tableau-software.svg" height="55" width="55" alt="Tableau"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" height="55" width="55" alt="tensorflow"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" height="55" width="55" alt="Scikit-Learn"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="55" width="55" alt="Dash"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" height="55" width="55" alt="Pytorch"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" height="55" width="55" alt="keras"/> |
 
-### OS: ❤️ (linux one love)
-
-| Linux | Ubuntu | Windows |
-|-------|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Ubuntu" width="55" height="55"/> |
-
 ### Development tools:
 | Git | GitHub | VS Code | Jupyter | Office 365 | SalesForce | Azure | Pycharm | Canva | Arduino |
 |-----|--------|---------|---------|------------|------------|-------|---------|-------|---------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/github-mark-white_ozjbrg.png" title="GitHub" alt="GitHub" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717313305/Microsoft_365__2022_.svg_lfzbte.png" title="office365" alt="office365" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="SalesForce" alt="SalesForce" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"/>|
+
+### OS: ❤️ (linux one love)
+
+| Linux | Ubuntu | Windows | Debian | Fedora |
+|-------|--------|---------|--------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="55" height="55"/> |
+
+## Skills:
+
+| Data Science | Artificial Intelligence | Machine Learning | Google Cloud | Prompt Engineering |
+|-------|--------|---------|--------|--------|
+| <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dsgit.png" title="Data Science" alt="Data Science" width="55" height="55"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/aigit.jpg" title="Artificial Intelligence" alt="Artificial Intelligence" width="55" height="55"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/mlgit.png" title="Machine Learning" alt="Machine Learning" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/pegit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"/> |
 
 <!--
 
