@@ -121,21 +121,25 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
         </a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec">
-          <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec&theme=radical"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec&theme=dracula"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec">
-          <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec&theme=radical"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec&theme=dracula"/>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 ### Entertainment
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
