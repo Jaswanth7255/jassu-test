@@ -107,8 +107,8 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120">
-          <img width="715" src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthgec">
+          <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthgec&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -116,8 +116,8 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec">
+          <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&theme=dracula"/>
         </a>
       </td>
     </tr>
