@@ -28,7 +28,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9959707255)
 [![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
 
 <p align="center">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@jassugec8106" target="blank">
@@ -39,6 +38,9 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 </a>
 <a href="https://stackoverflow.com/users/26410375" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26410375" height="35" width="45" />
+</a>
+<a href="https://discord.gg/https://discord.gg/cw84QZKd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cw84QZKd" height="35" width="45" />
 </a>
 <a href="https://dribbble.com/jaswanth7255" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jaswanth7255" height="35" width="45" />
