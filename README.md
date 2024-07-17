@@ -109,7 +109,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 ### OS: ❤️ (linux one love)
 
-| Linux | Ubuntu | Windows | Debian | Fedora |
+| Linux(Kali) | Ubuntu | Windows | Debian | Fedora |
 |-------|--------|---------|--------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="55" height="55"/> |
 
