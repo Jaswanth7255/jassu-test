@@ -1,10 +1,12 @@
+## Jaswanth Kollipara
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthgec&title=Stars,Followers,Commits,Repositories,MultiLanguage,PullRequest,trophy,Reviws,Experience,Issues,LongTimeUser&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### About Me:   
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 An Inquisitive learner with an innovative and logical mind. I am delighted to be employed in a competitive sector that provides numerous opportunities to advance my career.
 
@@ -14,15 +16,15 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-### Social media: 📡   
+### 🌐 Socials
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Connect with me on LinkedIn, where I share insights, victories, and the occasional setback. 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
-
-- 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
-- ✍️ : There is [my blog and articles](https://blog.crfnetwork.com/)
-- 📧 : Contact me at [admin@crfnetwork.com](mailto:admin@crfnetwork.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045406261491)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kolliparajaswanth.blogspot.com/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jassugec8106)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthgec/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltp1120/)
+[![Mail](https://img.shields.io/badge/Mail-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@crfnetwork.com)
 
 ## Working on: 🚀
 
