@@ -2,10 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthgec&title=Stars%20,Followers,Experience,Commits,Repositories,MultiLanguage,PullRequest,trophy,Reviws,Issues,LongTimeUser,NewUser,Organizations&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
 <a href="https://github-trophies.vercel.app/?username=jaswanthgec" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=jaswanthgec&theme=radical&margin-w=4&margin-h=4">
+  <img src="https://github-trophies.vercel.app/?username=jaswanthgec&theme=discord&margin-w=6&margin-h=6">
 </a>
 
 ### 👦🏻 About Me:   
@@ -104,5 +102,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+
+  <img width="1000" src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif" alt="snake"/>
 </p>
 
