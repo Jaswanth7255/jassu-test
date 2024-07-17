@@ -115,9 +115,9 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 ## Skills:
 
-| Data Science | Artificial Intelligence | Machine Learning | Google Cloud | Prompt Engineering |
-|--------------|-------------------------|------------------|--------------|--------------------|
-| <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dsgit.png" title="Data Science" alt="Data Science" width="55" height="55"> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Artificial Intelligence" alt="Artificial Intelligence" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/mlgit.png" title="Machine Learning" alt="Machine Learning" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/pegit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"> |
+| Data Science | Artificial Intelligence | Machine Learning | Google Cloud | Prompt Engineering | Deep Learning |
+|--------------|-------------------------|------------------|--------------|--------------------|---------------|
+| <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dsgit.png" title="Data Science" alt="Data Science" width="55" height="55"> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Artificial Intelligence" alt="Artificial Intelligence" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/mlgit.jpg" title="Machine Learning" alt="Machine Learning" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/pegit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dlgit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"> |
 
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
