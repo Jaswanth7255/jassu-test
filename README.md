@@ -103,7 +103,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 ### Libraries: 
 
-| Scikit-Learn | Seaborn | Pandas | Spring | opencv2 |
+| Scikit Learn | Seaborn | Pandas | Spring | Open CV |
 |--------------|---------|--------|--------|---------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="opencv2" alt="opencv2" width="55" height="55"/> |
 
