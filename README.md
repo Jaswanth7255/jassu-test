@@ -82,26 +82,30 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="header" align="center">
+[](https://github-readme-stats.vercel.app/api?username=jaswanthgec)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="200">](https://github-readme-stats.vercel.app/api?username=jaswanthgec)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" style="width: 500px; height: 200px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 500px; height: 200px;">
-</div>
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-readme-stats.vercel.app/api?username=jaswanthgec">
+          <img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">
+        </a>
+      </th>
+      <th>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
 
 ### 📈 User Statistics Contributions and Streaks
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jaswanthgec&theme=dracula&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec">
-    <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</a>
-
 
 ### Entertainment
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
