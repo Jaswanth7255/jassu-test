@@ -24,7 +24,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![Website](https://img.shields.io/badge/website-00246B?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/jaswanth-kollipara)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolliparajaswanth030@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthgec/)
-[![Blogger](https://img.shields.io/badge/Blogger-FBBC05?style=for-the-badge&logo=blogger&logoColor=white)](https://kolliparajaswanth.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blogger-FBBC05?style=for-the-badge&logo=blogger&logoColor=white)](https://kolliparajaswanth.blogspot.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9959707255)
 [![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
