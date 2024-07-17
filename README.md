@@ -20,6 +20,8 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 ## 🌐 Connect with me:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+
 [![Website](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/jaswanth-kollipara)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolliparajaswanth030@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthgec/)
@@ -27,7 +29,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9959707255)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
 
-<p align="center">
+
 <a href="https://linkedin.com/in/jaswanth-kollipara-896443237/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaswanth-kollipara-896443237/" height="35" width="45" />
 </a>
