@@ -79,28 +79,27 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dsgit.png" title="Data Science" alt="Data Science" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/aigit.jpg" title="Artificial Intelligence" alt="Artificial Intelligence" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/mlgit.png" title="Machine Learning" alt="Machine Learning" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/pegit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"> |
 
 
- ### 📈 User Statistics Contributions and Streaks
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jaswanthgec&theme=dracula&hide_border=true&border_radius=5&card_width=800">
-</p>
-
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="header" align="center">
 
 [<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="200">](https://github-readme-stats.vercel.app/api?username=jaswanthgec)
-
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
 
-[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec)
 </div>
+
+### 📈 User Statistics Contributions and Streaks
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jaswanthgec&theme=dracula&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec">
     <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </a>
+
 
 ### Entertainment
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
