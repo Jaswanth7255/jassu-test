@@ -117,7 +117,24 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec">
-          <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&theme=dracula"/>
+          <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&theme=radical"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=radical"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=radical"/>
         </a>
       </td>
     </tr>
