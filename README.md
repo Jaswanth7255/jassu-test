@@ -13,10 +13,8 @@ An Inquisitive learner with an innovative and logical mind. I am delighted to be
 I'm a dedicated Data Analyst with a strong passion for creating seamless and efficient data visualizations. My expertise spans both Data science and Machine Learning, allowing me to build comprehensive and robust solutions. I specialize in modern Database and frameworks like Sql, MongoDb, PowerBi and Tableau, and I'm proficient in server-side technologies such as Tomcat, Nginx and Django.
 
 I thrive on developing scalable and maintainable code, utilizing my solid understanding of database management with both SQL and NoSQL systems. My experience with cloud services like AWS and Azure enables me to deploy and manage applications efficiently.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-### 🌐 Socials
+## 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/jaswanth-kollipara)
@@ -30,17 +28,16 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![Discord](https://img.shields.io/badge/Discord%20jassu2074-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://discord.com/channels/@me)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077865823539)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9959707255)
 
 ## ⚙️ Working on: 🚀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- Tweaking this README for optimal engagement 
 - [Automated Online Exam](https://github.com/jaswanthgec/Automated-Online-Exam) 
 - [Virtual Labs Simulator](https://github.com/jaswanthgec/IIC-Virtual-Labs)
 - [Bar Code Scanner](https://github.com/jaswanthgec/Bar-Code-Scanner.git)
 
-## Languages and Tools 
+## Languages and Skills
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Languages:
@@ -48,8 +45,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 | C | R | Python | JAVA | HTML | CSS | JS | Julia | Kotlin | C++ |
 |---|---|--------|------|------|-----|----|-------|--------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="55" width="55" alt="R"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="55" alt="Java Script"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" height="55" width="55" alt="julia"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="55" width="55" alt="kotlin"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="cpp"/> |
-
-
 
 ### <span style="color:#32CD32;">Data Base<span/>, <span style="color:#4F7942;">Servers<span/> and <span style="color:#4F7942;">Full Stack<span/>:
 
@@ -98,6 +93,9 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
 </div>
+
+### Entertainment
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
