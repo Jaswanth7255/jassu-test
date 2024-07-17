@@ -21,25 +21,21 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[![Website](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/jaswanth-kollipara)
+[![Website](https://img.shields.io/badge/website-00246B?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/jaswanth-kollipara)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolliparajaswanth030@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthgec/)
 [![Blogger](https://img.shields.io/badge/Blogger-FBBC05?style=for-the-badge&logo=blogger&logoColor=white)](https://kolliparajaswanth.blogspot.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9959707255)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
+[![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
 
 <p align="center">
-<a href="https://linkedin.com/in/jaswanth-kollipara-896443237/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaswanth-kollipara-896443237/" height="35" width="45" />
-</a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@jassugec8106" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jassugec8106" height="35" width="45" />
 </a>
 <a href="https://twitter.com/k_jaswanth3" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_jaswanth3" height="35" width="45" />
-</a>
-<a href="https://discord.gg/https://discord.gg/cw84QZKd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cw84QZKd" height="35" width="45" />
 </a>
 <a href="https://stackoverflow.com/users/26410375" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26410375" height="35" width="45" />
