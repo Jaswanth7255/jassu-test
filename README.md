@@ -27,7 +27,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![Twitter](https://img.shields.io/badge/𝕏%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/K_Jaswanth3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaswanthkollipara/)
 [![Blogger](https://img.shields.io/badge/Blogger-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://kolliparajaswanth.blogspot.com/)
-[![Discord](https://img.shields.io/badge/Discord-jassu2074-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord%20jassu2074-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://discord.com/channels/@me)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077865823539)
 
