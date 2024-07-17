@@ -1,6 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthgec&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,trophy,Reviws&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthgec&title=Stars,Followers,Commits,Repositories,MultiLanguage,PullRequest,trophy,Reviws,Experience,LongTimeUser&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=jaswanthgec&theme=dracula
 ### About Me:   
 
 An Inquisitive learner with an innovative and logical mind. I am delighted to be employed in a competitive sector that provides numerous opportunities to advance my career.
