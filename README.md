@@ -17,7 +17,7 @@ I'm a dedicated Data Analyst with a strong passion for creating seamless and eff
 
 I thrive on developing scalable and maintainable code, utilizing my solid understanding of database management with both SQL and NoSQL systems. My experience with cloud services like AWS and Azure enables me to deploy and manage applications efficiently.
  
-## 🌐 Connect with me:
+## 🌐 Connect with me: 📫
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -40,8 +40,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <a href="https://stackoverflow.com/users/26410375" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26410375" height="35" width="45" />
 </a>
-<a href="https://discord.gg/https://discord.gg/cw84QZKd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cw84QZKd" height="35" width="45" />
 </a>
 <a href="https://dribbble.com/jaswanth7255" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jaswanth7255" height="35" width="45" />
@@ -81,9 +79,9 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 ### Languages:
 
-| C | R | Python | JAVA | HTML | CSS | JS | Julia | Kotlin | C++ |
-|---|---|--------|------|------|-----|----|-------|--------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="55" width="55" alt="R"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="55" alt="Java Script"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" height="55" width="55" alt="julia"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="55" width="55" alt="kotlin"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="cpp"/> |
+| C | R | Python | JAVA | HTML | CSS | JS | Julia | Go | C++ |
+|---|---|--------|------|------|-----|----|-------|----|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="55" width="55" alt="R"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="55" alt="Java Script"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" height="55" width="55" alt="julia"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="55" width="55" alt="kotlin"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="cpp"/> |
 
 ### <span style="color:#32CD32;">Data Base<span/>, <span style="color:#4F7942;">Servers<span/> and <span style="color:#4F7942;">Full Stack<span/>:
 
@@ -95,7 +93,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 | Streamlit | Flask | Django | PowerBi | Tableau | TensorFlow | Scikit-Learn | Dash | Pytorch | keras |
 |-----------|-------|--------|---------|---------|------------|--------------|------|---------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/tableau-software.svg" height="55" width="55" alt="Tableau"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" height="55" width="55" alt="tensorflow"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" height="55" width="55" alt="Scikit-Learn"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="55" width="55" alt="Dash"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" height="55" width="55" alt="Pytorch"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" height="55" width="55" alt="keras"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Express" width="55" height="55"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/flgit.png" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="PowerBi"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/tableau-software.svg" height="55" width="55" alt="Tableau"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" height="55" width="55" alt="tensorflow"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" height="55" width="55" alt="Scikit-Learn"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="55" width="55" alt="Dash"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" height="55" width="55" alt="Pytorch"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" height="55" width="55" alt="keras"/> |
 
 ### Development tools:
 
