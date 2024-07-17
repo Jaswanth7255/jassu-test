@@ -7,7 +7,7 @@
   <img src="https://github-trophies.vercel.app/?username=jaswanthgec&theme=discord&margin-w=6&margin-h=6">
 </a>
 
-### 👦🏻 About Me:   
+### 👦🏻 About Me: ❤️
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -113,14 +113,14 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 |--------------|--------|---------|--------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="55" height="55"/> |
 
-## Skills:
+### Skills:
 
 | Data Science | Artificial Intelligence | Machine Learning | Google Cloud | Prompt Engineering | Deep Learning |
 |--------------|-------------------------|------------------|--------------|--------------------|---------------|
 | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dsgit.png" title="Data Science" alt="Data Science" width="55" height="55"> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Artificial Intelligence" alt="Artificial Intelligence" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/mlgit.jpg" title="Machine Learning" alt="Machine Learning" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/pegit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dlgit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"> |
 
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
@@ -141,7 +141,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   <tbody>
 </table>
 
-### 📈 User Statistics Contributions and Streaks
+## 📈 User Statistics Contributions and Streaks
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <table>
