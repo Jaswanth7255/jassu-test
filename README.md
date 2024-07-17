@@ -96,13 +96,15 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
 </div>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120">
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
+    <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&theme=dracula"/>
+</a>
 
 ### Entertainment
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 
-  <img width="1000" src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif" alt="snake"/>
+  <img width="1000" src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif" alt="settings  "/>
 </p>
 
