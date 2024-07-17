@@ -86,8 +86,9 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 [<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="200">](https://github-readme-stats.vercel.app/api?username=jaswanthgec)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
-<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" style="width: 500px; height: auto;">
 
+<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" style="width: 500px; height: auto;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 500px; height: auto;">
 </div>
 
 ### 📈 User Statistics Contributions and Streaks
