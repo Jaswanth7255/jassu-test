@@ -91,14 +91,12 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 <div id="header" align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="200">](https://github-readme-stats.vercel.app/api?username=jaswanthgec)
+[<img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" width="700" height="200">](https://github-readme-stats.vercel.app/api?username=jaswanthgec)
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="700" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
+
+[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="700" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
 </div>
-
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
-    <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&theme=dracula"/>
-</a>
 
 ### Entertainment
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
