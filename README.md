@@ -124,12 +124,12 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec">
-          <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec&theme=radical"/>
+          <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec&theme=radical"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec">
-          <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec&theme=radical"/>
+          <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec&theme=radical"/>
         </a>
       </td>
     </tr>
