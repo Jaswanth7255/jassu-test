@@ -4,6 +4,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthgec&title=Stars,Followers,Commits,Repositories,MultiLanguage,PullRequest,trophy,Reviws,Experience,Issues,LongTimeUser&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://github-trophies.vercel.app/?username=jaswanthgec" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=jaswanthgec&theme=radical&margin-w=4&margin-h=4">
+</a>
+
 ### 👦🏻 About Me:   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -77,7 +81,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dsgit.png" title="Data Science" alt="Data Science" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/aigit.jpg" title="Artificial Intelligence" alt="Artificial Intelligence" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/mlgit.png" title="Machine Learning" alt="Machine Learning" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/pegit.png" title="Prompt Engineering" alt="Prompt Engineering" width="55" height="55"> |
 
 
- ### Contributions and Streaks
+ ### 📈 User Statistics Contributions and Streaks
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <p align="center">
@@ -93,6 +97,8 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200">](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec)
 </div>
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120">
 
 ### Entertainment
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
