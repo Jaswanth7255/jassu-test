@@ -83,7 +83,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jaswanthgec&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jaswanthgec&theme=dracula&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
