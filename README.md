@@ -28,7 +28,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9959707255)
 [![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
-[![Discord](https://img.shields.io/badge/Discord?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
+[![Discord](https://cdn.rawgit.com/NNTin/discord-logo/f4333344/src/assets/animateddiscord.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
 
 <p align="center">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@jassugec8106" target="blank">
